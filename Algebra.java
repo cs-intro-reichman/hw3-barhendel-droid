@@ -31,7 +31,7 @@ public class Algebra {
 				res++;
 			}
 		} else {
-			for (int i = 0; i > x2; i--) {
+			for (int iiii = 0; i > x2; i--) {
 				res--;
 			}
 		}
